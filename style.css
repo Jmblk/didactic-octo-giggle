@@ -1,0 +1,240 @@
+h1 {
+    font-style: italic;
+}
+
+h2 {
+   
+    font-style: italic;
+    background-color: aliceblue;
+    
+}
+
+h3 {
+    font-style: italic;
+    position: relative;
+    left: 25%;
+    
+}
+
+
+
+
+
+
+.center {
+    
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+
+
+
+p {
+    
+    width: 25%;
+    position: relative;
+    left: 25%;
+    top: 100%;
+    margin-bottom: 5%;
+   
+}
+
+
+
+
+
+
+.button1 {
+    width: 20%;
+    
+    background-color: orange;
+    margin-right: 25%;
+    float: right;
+    
+    
+}
+
+.button1 ul {
+    
+    
+}
+
+.button1 ul li {
+    
+    list-style: none;
+    font-style: italic;
+    
+    
+    
+
+    
+    
+}
+
+.button1 ul li a {
+    
+    text-decoration: none;
+    color: white;
+    
+    
+    
+}
+
+
+
+
+
+
+.button2 {
+    width: 20%;
+    background-color: orange;
+    float: left;
+    margin-left: 25%
+    
+
+    
+}
+
+.button2 ul {
+    
+}
+
+.button2 ul li {
+    
+    list-style: none;
+    font-style: italic;
+    
+    
+    
+    
+    
+}
+
+.button2 ul li a {
+    
+    text-decoration: none;
+    color: white;
+    
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.navbar {
+    
+    overflow: hidden;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    
+    
+}
+
+.navbar ul {
+    
+    list-style: none;
+    padding: 0;
+    
+}
+
+.navbar ul li {
+    
+    display: inline;
+    
+}
+
+.navbar ul li a {
+    
+    float: right;
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    padding: 14px 16px;
+    color: black;
+    font-style: italic;
+    
+      
+    
+    
+} 
+
+h5 {
+    
+   font-size: 20px;
+   font-style: italic;
+   margin-bottom: 15px;
+    
+    
+    
+}
+
+
+.season h5 {
+    position: relative;
+    left: 5%;
+    
+    
+}
+
+
+
+
+
+
+
+
+.season {
+    
+   width: 50%;
+   margin: auto;
+   
+}
+
+.season ul {
+    
+    
+
+    
+    
+    
+}
+
+.season ul li {
+   
+    list-style: none;
+    margin-bottom: 20px;
+    
+    
+   
+   
+     
+    
+}
+
+.season ul li a {
+    
+    text-decoration: none;
+    color: dodgerblue;
+    background-color: lightgray;
+    padding-right: 50%;
+    
+    
+    
+    
+}
